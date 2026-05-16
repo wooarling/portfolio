@@ -8,7 +8,7 @@ Spring Boot 기반의 백엔드 개발을 중심으로
 
 # 📑 Projects
 
-## 📚 UEIC
+## 📚 UEIC (https://github.com/2026-team3/ueic-backend.git)
 
 > 토익 맞춤형 스터디 매칭 플랫폼
 
