@@ -38,7 +38,7 @@ Spring Boot 기반의 백엔드 개발을 중심으로
 ### 🛠 기술 스택
 `Java` `Spring Boot` `MySQL` `Docker` 
 
-## 📦 공공데이터 기반 아동복지급식정보 수집 프로젝트
+## 📦 [공공데이터 기반 아동복지급식정보 수집 프로젝트](https://github.com/wooarling/wealth.git)
 
 > 공공데이터 API를 활용한 대용량 데이터 수집 및 성능 개선 개인 프로젝트
 
