@@ -40,7 +40,7 @@ Spring Boot 기반의 백엔드 개발을 중심으로
 ### 🛠 기술 스택
 `Java` `Spring Boot` `MySQL` `Docker` 
 
-##📚 [CONEXT](https://github.com/wooarling/hackerton-dswu.git)
+## 📚 [CONEXT](https://github.com/wooarling/hackerton-dswu.git)
 > IT 직무 적성 테스트와 커뮤니티 기능을 결합한 플랫폼
 
 ### 📅 개발 기간
@@ -58,7 +58,7 @@ Spring Boot 기반의 백엔드 개발을 중심으로
 - 사용자 활동 조회 API (내 글 / 내 댓글 / 내 스크랩) 개발
 
 ### 🛠 기술 스택
-'Python' 'Django' 'Django REST Framework' 'SQLite'
+`Python`  `Django`  `Django REST Framework`  `SQlite` 
 
 ## 📦 [공공데이터 기반 아동복지급식정보 수집 프로젝트](https://github.com/wooarling/wealth.git)
 
