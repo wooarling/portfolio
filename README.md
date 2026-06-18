@@ -11,7 +11,9 @@ Spring Boot 기반의 백엔드 개발을 중심으로
 - GitHub : [wooarling](https://github.com/wooarling)
 - Blog : [Velog](https://velog.io/@wooarling/posts)
 
-  
+
+# 🏆 Awards
+-🥉 2025 교내 해커톤 장려상
 
 # 📑 Projects
 
