@@ -40,6 +40,26 @@ Spring Boot 기반의 백엔드 개발을 중심으로
 ### 🛠 기술 스택
 `Java` `Spring Boot` `MySQL` `Docker` 
 
+##📚 [CONEXT](https://github.com/wooarling/hackerton-dswu.git)
+> IT 직무 적성 테스트와 커뮤니티 기능을 결합한 플랫폼
+
+### 📅 개발 기간
+2025.11~ (2주 동안 진행)
+
+### 💡 프로젝트 소개
+사용자의 적성을 분석하여 적합한 IT 분야를 추천하고 직무별 게시판을 통해 
+정보 공유가 가능하도록 구현한 팀 프로젝트입니다.
+
+### 👨‍💻 담당 기능
+-JWT + Session 기반 사용자 인증 및 권한 처리 구현
+-게시글 CRUD API 및 댓글 기능 개발
+-좋아요 / 스크랩 기능 구현
+-익명 게시글 작성 기능 구현
+-사용자 활동 조회 API (내 글 / 내 댓글 / 내 스크랩) 개발
+
+### 🛠 기술 스택
+'Python' 'Django' 'Django REST Framework' 'SQLite'
+
 ## 📦 [공공데이터 기반 아동복지급식정보 수집 프로젝트](https://github.com/wooarling/wealth.git)
 
 > 공공데이터 API를 활용한 대용량 데이터 수집 및 성능 개선 개인 프로젝트
