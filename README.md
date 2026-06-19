@@ -9,7 +9,7 @@ Spring Boot 기반의 백엔드 개발을 중심으로
 # Contact
 
 - GitHub : [wooarling](https://github.com/wooarling)
-- Blog : [Velog](https://velog.io/@wooarling/posts)
+- Blog : [Velog](https://velog.io/@wooarling)
 
 
 # 🏆 Awards
