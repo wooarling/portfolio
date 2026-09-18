@@ -60,26 +60,3 @@ Spring Boot 기반의 백엔드 개발을 중심으로
 ### 🛠 기술 스택
 `Python`  `Django`  `Django REST Framework`  `SQlite` 
 
-## 📦 [공공데이터 기반 아동복지급식정보 수집 프로젝트](https://github.com/wooarling/wealth.git)
-
-> 공공데이터 API를 활용한 대용량 데이터 수집 및 성능 개선 개인 프로젝트
-
-### 📅 개발 기간
-2025.12 ~ 2026.01
-
-### 💡 프로젝트 소개
-공공데이터포털 API를 활용하여 약 27만 건 이상의 아동복지급식정보 데이터를 수집하고  
-DB에 적재하는 개인 프로젝트입니다.
-
-초기에는 단순 적재 방식으로 구현했으나, 대용량 데이터 처리 성능 개선을 위해  
-Thread Pool 기반 병렬 처리 구조로 리팩토링하였습니다.
-
-### ⚙️ 담당 및 개선 내용
-- CommandLineRunner 기반 초기 데이터 적재 구현
-- ExecutorService(Thread Pool) 기반 병렬 처리 구조 개선
-- MAX_THREADS = 5 설정으로 페이지 단위 동시 처리
-- JSON 파싱 및 DB 저장 로직 분리
-- uniqueKey 기반 중복 데이터 방지
-
-### 🛠 기술 스택
-`Java` `Spring Boot` `MySQL`
